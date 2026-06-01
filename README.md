@@ -36,7 +36,8 @@ O sistema permite:
 # Acesso ao Simulador
 
 Link público do Tinkercad:
-https://www.tinkercad.com/things/ginhQqdLpeU-bodacious-leelo-turing/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard
+https://www.tinkercad.com/things/ginhQqdLpeU-bodacious-leelo-turing/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=-9VfZ9iiNegpS_aLxVsxuaI8UiSqVAaUtHVKCQNIQwk
+
 ---
 
 # Guia de Operação
